@@ -11,4 +11,17 @@ Do not use this tool to attack governments, large companies, or any target witho
 
 
 ## How too use 
-d`)
+install tool
+```bash
+
+git clone https://github.com/voidh7/SubMap/ && cd Submap```
+
+install devops
+```bash
+pip install requests
+```
+
+run 
+```
+python3 Submap.py
+```
