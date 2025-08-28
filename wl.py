@@ -1,0 +1,21 @@
+Word = [
+    "www","mail","ftp","webmail","blog","dev","test","admin","portal","api",
+    "shop","secure","support","vpn","intranet","m","forum","beta","staging",
+    "old","docs","status","dashboard","downloads","backup","cpanel","remote",
+    "smtp","imap","news","wiki","static","assets","media","cdn","api2","dev2",
+    "qa","uat","sandbox","images","files","data","reports","app","mobile","chat",
+    "auth","login","register","accounts","users","config","system","monitor",
+    "analytics","payments","billing","orders","store","product","customer",
+    "service","feedback","survey","jobs","careers","events","community",
+    "members","partners","affiliate","tracking","logs","db","database","mysql",
+    "postgres","sql","secureadmin","adminpanel","superuser","root","management",
+    "control","controlpanel","panel","console","web","site","internal","external",
+    "test1","test2","stage","release","prod","production","uat1","uat2","demo",
+    "example","sample","devops","ci","cd","build","release","monitoring","alerts",
+    "metrics","statuspage","health","check","maintenance","update","upgrade",
+    "backup1","backup2","oldsite","legacy","archive","temp","tmp","hidden",
+    "private","secret","confidential","restricted","securefiles","safe","safezone",
+    "resources","assets2","media2","images2","docs2","downloads2","files2",
+    "cdn2","static2","api3","dev3","qa2","uat3","sandbox2","staging2","beta2",
+    "test3","test4","admin2","portal2","shop2","support2","vpn2","intranet2"
+]
